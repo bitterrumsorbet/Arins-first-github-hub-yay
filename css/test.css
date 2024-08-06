@@ -1,0 +1,29 @@
+body{
+	background-color: aliceblue;
+}
+h1{
+	font-size: 70px;
+	color: DarkOrchid;
+}
+h2{
+	color: hotpink;
+	font-size: 30px;
+
+}
+h2{
+	color:teal;
+}
+
+.medium{
+	font-size: 50px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+.medium.uppercase{
+	color: navy;
+}
+h1 span{
+	color: violet;
+}
